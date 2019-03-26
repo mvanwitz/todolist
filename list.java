@@ -1,4 +1,9 @@
-public class list {
+public class list implements chooseList {
 
-  
+
+  public <ArrayList> listType () {
+
+
+  }
+
 }
